@@ -1,25 +1,25 @@
 # KampüsAjanda
 
-Kampüs etkinliklerini öğrencinin boş saatlerine ve ilgi alanlarına göre sıralayan mobil uygulama.
+A mobile app that ranks campus events by each student's free time slots and interests.
 
-**Ders:** MTM4681 Mobil Uygulama Geliştirme · **Teslim:** Milestone (Tasarım ve mimari) · **Takım:** #__
+**Course:** MTM4681 Mobile Application Development · **Submission:** Milestone (Design and architecture) · **Team:** #__
 
-## Ekip
-| Ad Soyad | Öğrenci No | GitHub | Rol |
+## Team
+| Name | Student ID | GitHub | Role |
 |---|---|---|---|
-| Elif Ağpınar | ... | @... | UX, user flow, wireframe |
-| Zeynep Yüksel | ... | @... | UI, mockup, prototip |
-| Nisa Ay | ... | @... | Mimari, repo, teslim |
+| Elif Ağpınar | ... | @elifagpnr | UX, user flow, wireframes |
+| Zeynep Yüksel | ... | @z-yuksel | UI, mockups, prototype |
+| Nisa Ay | ... | @Nisa-Ay | Architecture, repository, submission |
 
-## Figma
-- Wireframe: (eklenecek)
-- Mockup: (eklenecek)
-- Prototip: (eklenecek)
+## 📌 Milestone deliverables
+| Deliverable | Link |
+|---|---|
+| 1. Design justification (PDF) | [docs/1_design_justification.pdf](docs/1_design_justification.pdf) |
+| 2. User flow diagram (PDF) | [docs/2_user_flow.pdf](docs/2_user_flow.pdf) |
+| 3. Wireframes (Figma) | (to be added) |
+| 4. Mockups (Figma) | (to be added) |
+| 5. Prototype (Figma) | (to be added) |
+| 6. Architecture & protocols (PDF) | [docs/3_architecture_protocols.pdf](docs/3_architecture_protocols.pdf) |
 
-## Dokümanlar
-- [Design justification](docs/1_design_justification.pdf)
-- [User flow](docs/2_user_flow.pdf)
-- [Architecture & protocols](docs/3_architecture_protocols.pdf)
-
-## Ekranlar
-(Mockup ekran görüntüleri eklenecek)
+## Screens
+(Mockup screenshots will be added)
