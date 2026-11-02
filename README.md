@@ -16,7 +16,7 @@ A mobile app that ranks campus events by each student's free time slots and inte
 |---|---|
 | 1. Design justification (PDF) | [docs/1_design_justification.pdf](docs/1_design_justification.pdf) |
 | 2. User flow diagram (PDF) | [docs/2_user_flow.pdf](docs/2_user_flow.pdf) |
-| 3. Wireframes (Figma) | (to be added) |
+| 3. Wireframes (Figma) | https://www.figma.com/design/Y415Npy0OPBdq1MTyeVegD/kampusAjanda?node-id=0-1&t=rQY6gObqAMpDMv0V-1 |
 | 4. Mockups (Figma) | (to be added) |
 | 5. Prototype (Figma) | (to be added) |
 | 6. Architecture & protocols (PDF) | [docs/3_architecture_protocols.pdf](docs/3_architecture_protocols.pdf) |
