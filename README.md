@@ -1,6 +1,6 @@
 # KampüsAjanda
 
-A mobile app that ranks campus events by each student's free time slots and interests.
+A Flutter app that brings all YTU campus events together in one place, helps students never miss them, and recommends events based on their free time and interests.
 
 **Course:** MTM4681 Mobile Application Development · **Submission:** Milestone (Design and architecture) · **Team:** #__
 
