@@ -18,7 +18,7 @@ A Flutter app that brings all YTU campus events together in one place, helps stu
 | 2. User flow diagram (PDF) | [docs/2_user_flow.pdf](docs/2_user_flow.pdf) |
 | 3. Wireframes (Figma) | https://www.figma.com/design/Y415Npy0OPBdq1MTyeVegD/kampusAjanda?node-id=0-1&t=rQY6gObqAMpDMv0V-1 |
 | 4. Mockups (Figma) | https://www.figma.com/design/Y415Npy0OPBdq1MTyeVegD/kampusAjanda?node-id=102-68&t=vB6WrWu6mQZFdfmE-1 |
-| 5. Prototype (Figma) | (to be added) |
+| 5. Prototype (Figma) | https://www.figma.com/design/Y415Npy0OPBdq1MTyeVegD/kampusAjanda?node-id=125-1513&t=s64Khg3ESEhymtLi-1 |
 | 6. Architecture & protocols (PDF) | [docs/3_architecture_protocols.pdf](docs/3_architecture_protocols.pdf) |
 
 ## Screens
