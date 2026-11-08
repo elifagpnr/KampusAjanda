@@ -11,7 +11,7 @@
 | **Local notifications** | Sends the "1 day before" reminder for joined events. For outdoor events, rain is added to the message. | 7, 9 |
 
 ### Example: Open-Meteo request
-    GET https://api.open-meteo.com/v1/forecast?latitude=41.02&longitude=28.89&hourly=temperature_2m,precipitation_probability
+    GET https://api.open-meteo.com/v1/forecast?latitude=41.02&longitude=28.89&hourly=temperature_2m,precipitation_probability&timezone=Europe/Istanbul
 
 The response is JSON. The app takes the values for the event's hour and shows them as "16°C · Rain 10%".
 
