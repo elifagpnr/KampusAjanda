@@ -12,7 +12,7 @@ A Flutter app that brings all YTU campus events together in one place, helps stu
 - **For You:** events ranked by free time and interests, with the reason for each recommendation
 - Event details, joining, a reminder 1 day before, and weather for outdoor events
 - A calendar that shows classes and joined events together
-- **Club panel:** club officers activate it with a code from SKS, create events and manage up to 3 admins
+- **Club panel:** club admins activate it with a code from SKS, create events and manage up to 3 admins
 
 **Planned tech stack:** Flutter, MVVM with Riverpod, go_router, Firebase (Authentication, Cloud Firestore), Hive, Open-Meteo API, local notifications
 
